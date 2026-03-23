@@ -15,6 +15,6 @@ Python
 Googletrans / Translation API
 Tkinter (for GUI, if used)
 
-🎯 Objective
+🎯 Objective.
 The main goal of this project is to create a simple tool that allows users to easily translate text between different languages without needing advanced technical knowledge.
 
